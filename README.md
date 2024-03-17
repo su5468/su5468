@@ -1,4 +1,5 @@
 # Introduction
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=su5468)](https://solved.ac/su5468)  
 대학교를 갓 졸업한 사회초년생.  
 재밌거나 필요하다고 생각하는 것들을 만듭니다.  
 
@@ -16,3 +17,7 @@
   - 그 외 여러 경험.
 - **HTML/CSS/JS**: 재사용성과 반응성을 중시하며 간단한 페이지를 만들 수 있습니다. JQuery를 이용한 엘리먼트 조작 및 JSDoc 타입 힌팅이 가능합니다.
 - **Notion**: 자주 사용하고 있으며, 추가로 마크다운 문법에도 익숙합니다. 노션과 유사한 Obsidian.md를 사용해본 적이 있으며, JavaScript로 이미 구현된 플러그인을 개인적으로 수정하여 사용하기도 하였습니다.
+
+# Misc
+- 깃허브 프로필 사진은 [DALL-E 2](https://openai.com/dall-e-2)를 사용했습니다.
+- 백준 프로필은 [mazassumnida](https://github.com/mazassumnida/mazassumnida)를 사용했습니다.
