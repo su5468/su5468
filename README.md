@@ -6,7 +6,7 @@
 # Contact
 - ~~**[blog](https://su5468.github.io)**~~ -> **[blog](https://velog.io/@su5468)**
 - [**Github**(this page!)](https://github.com/su5468)
-- **[solved.ac](https://solved.ac/profile/su5468)**
+- **[solved.ac](https://solved.ac/su5468)**
 - mail **[here](mailto://su5468@korea.ac.kr)**, **[here](mailto://today5468@gmail.com)**, or **[here](mailto://su5468@naver.com)**.
 
 # Skills
